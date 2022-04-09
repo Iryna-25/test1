@@ -7,3 +7,20 @@
 // const result = Math.round(Math.random() * (max - min) + min);
 // console.log(result);
 
+// let totalSalary = 0;
+// const emploeers = 10;
+// const minSalary = 500;
+// const maxSalary = 5000;
+
+// for (let i = 1; i <= emploeers; i += 1) {
+
+//     const salary = Math.round(
+//         Math.random() * (maxSalary - minSalary) + minSalary
+//     );
+        
+//     console.log(`salary ${i} - ${salary}`);
+    
+//     totalSalary += salary;
+// }
+
+// console.log('total salary:', totalSalary);
