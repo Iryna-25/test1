@@ -1,3 +1,12 @@
+// const color = new Array ("wertyu", "srdtfghj", "cgfhgjkk");
+// color.push("dfghj");
+// document.write (color[3]);
+
+
+
+
+
+
 // const x = 5;
 // console.log(x);
 
